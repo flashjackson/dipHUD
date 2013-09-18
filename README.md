@@ -56,6 +56,12 @@ Smaller WinPanel
 
 Health Cross
 
+Crosshairs
+
+Custom Colors
+
+Installer...? I have no experience with this, but I feel like people would like it for simplicity's sake.
+
 ... and more to come!
 
 Instructions on how to install these options can be found in the "instructions.txt" inside the dipHUD-master folder. The damage circle instructions are found inside the damage circle folder.
