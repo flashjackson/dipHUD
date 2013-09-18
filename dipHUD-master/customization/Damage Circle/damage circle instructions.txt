@@ -1,0 +1,15 @@
+To enable, go to the dipHUD folder, then go to scripts and open up hudlayout.res
+
+The first entry in the file should be xHairCirclePulse. This is the thing that will flash when you do damage. Then find the part
+that says:
+
+"visible"		"0"
+
+and change it to
+
+"visible"		"1"
+
+That's all you need to do! I'm not too sure if it will be in the right place if you have a resolution other than 1920x1080, but 
+from what I can see, you won't have a problem with it.
+
+Enjoy!
