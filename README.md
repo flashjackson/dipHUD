@@ -6,7 +6,7 @@ A while ago I thought that it would be fun to modify an existing HUD that I like
 
 I'm finally finished! After lots of edits and addition, I have a product that I'm willing to release!
 
-I hope you enjoy! Screenshots can be found at this link httpimgur.comazoNTW
+I hope you enjoy! Screenshots can be found at this link http://imgur.com/azoNTW
 
 --diplodicus
 
