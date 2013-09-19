@@ -15,10 +15,40 @@ Scheme
 	//	"Name"	"ClientScheme"
 	//}
 
+	
+	
+	
+	
+	
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
-		// base colors
+		//Custom Colors - Change the RGBA (255 255 255 255) values to what you want.
+		
+		//Health Colors
+		"HealthNeutral"		"255 255 255 255"
+		"HealthBuff"		"50 220 50 255"
+		"HealthBuffPulse"	"30 170 30 255"		//Change this to the same RGBA value as HealthBuff to have a static color.
+		"HealthLow"			"255 10 10 255"
+		"HealthLowPulse"	"255 10 10 255"		//Change this to the same RGBA value as HealthLow to have a static color.
+		"SpecHealthNeutral"		"235 226 202 255"
+		"SpecHealthBuff"		"0 166 19 255"
+		"SpecHealthLow"			"196 18 20 255"
+		
+		//Ammo Colors
+		"AmmoInClipNeutral"		"255 255 255 255"
+		"AmmoReserveNeutral"	"255 255 255 255"
+		"AmmoLow"			"255 0 0 255"
+		"AmmoLowPulse"		"255 10 10 255"	
+		
+		//Medic Colors
+		"UberNotCharged"	"255 255 255 255"
+		"UberCharged"		"50 220 50 255"
+		"UberChargedPulse"	"30 170 30 255"		//Change this to the same RGBA value as UberCharged to have a static color.
+		
+		
+		//End Custom Colors - I advise not messing around with the colors after here. Doing so will mess up other elements.
+		
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
 		"LightOrange"			"188 112 0 128"
@@ -430,6 +460,16 @@ Scheme
 			}
 		}
 		
+		"xHairSpread"
+		{
+			"1"
+			{
+				"name" "Crosshairs"
+				"tall" "28"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
 		"Default"
 		{
 			"1"
@@ -4463,5 +4503,11 @@ Scheme
 			"font" "resource/FuturaStd-Heavy.otf"
 			"name" "FuturaStd-Heavy"
 		}
+		"14"
+		{
+			"font" "resource/fonts/crosshairs.ttf"
+			"name" "Crosshairs"
+		}
+
 	}
 }

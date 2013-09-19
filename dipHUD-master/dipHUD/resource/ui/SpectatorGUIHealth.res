@@ -69,8 +69,8 @@
 		"labeltext"			"%Health%"
 		"textAlignment"		"center"
 		"font"				"HudFontSmallBold"
-		"fgcolor"			"TanLight"
-		"fgcolor_override"	"TanLight"
+		"fgcolor"			"SpecHealthNeutral"
+		"fgcolor_override"	"SpecHealthNeutral"
 	}
 	"PlayerStatusHealthValueSpecShadow"
 	{	
@@ -83,7 +83,7 @@
 		"tall"				"10"
 		"visible"			"1"
 		"enabled"			"1"
-		"fgcolor"			"0 0 0 255"
+		"fgcolor"			"Black"
 		"labeltext"			"%Health%"
 		"textAlignment"		"center"
 		"font"				"HudFontSmallBold"

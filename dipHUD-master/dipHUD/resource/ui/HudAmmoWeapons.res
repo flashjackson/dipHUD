@@ -30,7 +30,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%Ammo%"
-		"fgcolor"		"White"
+		"fgcolor"		"AmmoInClipNeutral"
 		"zpos"			"5"
 
 		"font"	"HudFontGiantBold"		
@@ -61,7 +61,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
 
-		"fgcolor"		"White"
+		"fgcolor"		"AmmoReserveNeutral"
 		"zpos"			"7"
 		"visible"		"0"
 		"enabled"		"1"
@@ -104,7 +104,7 @@
 		"textAlignment"	"center"		
 		"labelText"		"%Ammo%"		
 		"zpos"			"5"
-		"fgcolor"		"White"
+		"fgcolor"		"AmmoInClipNeutral"
 		
 		"font"	"HudFontGiantBold"
 		"xpos"	"11"

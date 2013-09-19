@@ -3,8 +3,10 @@ Hello! Thanks for checking out dipHUD, my new creation.
 For the moment, the only options I have added are the scoreboard and health cross. To install these options, just go into
 their respective folders, select all the folders in that option, copy them and paste them into the dipHUD folder found here.
 
-That's it! No other work required. You're welcome to try out the pvHUD style option, but it's very incomplete. None of the item
-meters except for the ubercharge are converted to that style. 
+That's it! No other work required.
+
+To change the colors of certain elements, go into ClientScheme.res in your resource folder, and change the RGBA values of the files
+in the custom colors section of the file (near the top). The names are fairly self-explanitory, so I won't bother explaining them all. 
 
 To install, just place the dipHUD folder (along with any custom options) into your custom folder found here:
 

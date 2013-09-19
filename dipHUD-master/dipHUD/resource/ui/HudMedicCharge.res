@@ -45,8 +45,8 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"fgcolor"		"255 255 255 255"
-		"fgcolor_override"	"255 255 255 255"
+		"fgcolor"		"MedicNoCharged"
+		"fgcolor_override"	"MedicNoCharged"
 	}
 	"ChargeLabelShadow"
 	{
@@ -67,7 +67,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"fgcolor" 		"0 0 0 255"
+		"fgcolor" 		"Black"
 	}
 	"ChargeMeter"
 	{	
@@ -87,7 +87,7 @@
 		"dulltext"		"0"
 		"brighttext"	"1"
 		"bgcolor_override"	"15 15 15 130"
-		"fgcolor_override"	"White"
+		"fgcolor_override"	"MedicNoCharged"
 	}		
 	"ChargeMeterBG"
 	{
