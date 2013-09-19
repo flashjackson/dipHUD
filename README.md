@@ -35,7 +35,7 @@ WinPanel http://i.imgur.com/7DN2Wmy.jpg
 
 Scoreboard (cl_hud_minmode 0) http://i.imgur.com/C5UXhD3.jpg
 
-Scoreboard (cl_hud_minmode 0) http://i.imgur.com/ioS65VF.jpg
+Scoreboard (cl_hud_minmode 1) http://i.imgur.com/ioS65VF.jpg
 
 CTF Panel http://i.imgur.com/lR1EjYo.jpg
 
