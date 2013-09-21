@@ -23,7 +23,7 @@
 	{
 		"controlName" "CExLabel"
 		"fieldName" "xHairSpread"
-		"visible" "1"		//Disabled by default. Change this value to 1 to enable the crosshair.
+		"visible" "0"		//Disabled by default. Change this value to 1 to enable the crosshair.
 		"enabled" "1"
 		"zpos" "2"
 		
