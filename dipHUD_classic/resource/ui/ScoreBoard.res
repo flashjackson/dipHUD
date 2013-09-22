@@ -402,7 +402,7 @@
 		"ypos"			"c0"
 		"zpos"			"20"
 		"wide"			"225"
-		"tall"			"178"	[$WIN32]
+		"tall"			"177"	[$WIN32]
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -429,7 +429,7 @@
 		"ypos"			"c0"
 		"zpos"			"20"
 		"wide"			"225"
-		"tall"			"178"	[$WIN32]
+		"tall"			"177"	[$WIN32]
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1293,7 +1293,7 @@
 	{
 		"ControlName"		"CTFHudMannVsMachineScoreboard"
 		"fieldName"			"MvMScoreboard"
-		"xpos"				"c-200"
+		"xpos"				"c-300"
 		"ypos"				"r390"
 		"zpos"				"10"
 		"wide"				"f0"

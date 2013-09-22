@@ -1,13 +1,15 @@
-"Resource/UI/HudItemEffectMeter_Engineer.res"
+"Resource/UI/HudItemEffectMeter_Spy.res"
 {
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-90"
-		"ypos"			"r180"
-		"wide"			"175"
+		"xpos"			"c-50"	[$WIN32]
+		"ypos"			"r180"	[$WIN32]
+		"xpos"			"r194"	[$X360]
+		"ypos"			"r74"	[$X360]
+		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -17,12 +19,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"12"
-		"ypos"			"0"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"0"
 		"wide"			"76"
 		"tall"			"44"
 		"visible"		"0"
+		"visible_minmode"	"0"
 		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
@@ -36,8 +39,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"75"
-		"ypos"					"13"
+		"xpos"					"33"
+		"ypos"					"3"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
@@ -50,7 +53,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"TFFontSmall"
+		"font"					"HudFontSmallerest"
 	}
 
 	"ItemEffectMeter"
@@ -58,10 +61,12 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
+		"xpos"					"25"
 		"ypos"					"0"
-		"xpos"					"0"
+		"ypos_minmode"			"0"
+		"xpos_minmode"			"0"
 		"zpos"					"2"
-		"wide"					"50"
+		"wide"					"40"
 		"tall"					"6"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
@@ -76,8 +81,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"64"
-		"ypos"					"11"
+		"xpos"					"25"
+		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"20"
 		"tall"					"20"	
@@ -95,8 +100,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountShadow"
-		"xpos"					"65"
-		"ypos"					"11"
+		"xpos"					"25"
+		"ypos"					"1"
 		"zpos"					"1"
 		"wide"					"20"
 		"tall"					"20"	

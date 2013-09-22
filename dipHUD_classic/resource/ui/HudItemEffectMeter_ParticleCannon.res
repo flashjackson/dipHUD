@@ -6,7 +6,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-87"
-		"ypos"			"r160"
+		"ypos"			"r154"
 		"wide"			"175"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -64,7 +64,7 @@
 	{
 		"ControlName"			"ImagePanel"
 		"fieldName"				"meter_25"
-		"xpos"					"44"
+		"xpos"					"43"
 		"ypos"					"1"
 		"zpos"					"4"
 		"wide"					"1"

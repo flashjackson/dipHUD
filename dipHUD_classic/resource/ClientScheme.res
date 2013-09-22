@@ -1174,6 +1174,17 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"HudFontTiny"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"6"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
 		"TargetIDHealthFont"
 		{
 			"1"
