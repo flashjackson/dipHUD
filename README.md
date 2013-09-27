@@ -5,7 +5,7 @@ To install, navigate to your C:\Program Files (x86)\Steam\SteamApps\common\Team 
 
 If you are customizing the HUD while you are in-game, you can use the command hud_reloadscheme to refresh the HUD files. If that doesn't work, then just restart the game.
 
-I hope you enjoy my little project! If you have any requests, just post them on the <url=http://teamfortress.tv/forum/thread/12492-diphud-is-now-complete? teamfortress.tv </url> thread.
+I hope you enjoy my little project! If you have any requests, just post them on the [teamfortress.tv](http://teamfortress.tv/forum/thread/12492-diphud-is-now-complete) thread.
 
 --diplodicus
 
